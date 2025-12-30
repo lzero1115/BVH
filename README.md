@@ -9,7 +9,7 @@ This project refers to the [computer-graphics-bounding-volume-hierarchy](https:/
 ### Clone the Repository
 To clone the repository and its submodules, use the following command:
 
-    git clone --recursive [https://github.com/lzero1115/BVH.git](https://github.com/lzero1115/BVH.git)
+    git clone --recursive https://github.com/lzero1115/BVH.git
     cd BVH
 
 If you already cloned the project without the --recursive flag, run:
