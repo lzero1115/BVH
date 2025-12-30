@@ -1,0 +1,7 @@
+{
+    "cmake.buildType": "Release",
+    "cmake.configureSettings": {
+        "CMAKE_BUILD_TYPE": "Release"
+    },
+    "cmake.generator": "Unix Makefiles"
+}
