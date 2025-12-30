@@ -2,7 +2,7 @@
 
 This repository provides a straightforward tutorial for learning **Bounding Volume Hierarchy (BVH)**.
 
-This project refers to the [computer-graphics-bounding-volume-hierarchy](https://github.com/alecjacobson/computer-graphics-bounding-volume-hierarchy) assignment. Please refer to the original repository for more detailed theoretical information.
+This project refers to the [computer-graphics-bounding-volume-hierarchy](https://github.com/alecjacobson/computer-graphics-bounding-volume-hierarchy) assignment, with newly version libigl. Please refer to the original repository for more detailed theoretical information.
 
 ## Installation
 
